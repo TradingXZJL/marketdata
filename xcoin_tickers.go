@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Hongssd/myxcoinapi"
+	"github.com/TradingXZJL/myxcoinapi"
 	"github.com/shopspring/decimal"
 )
 

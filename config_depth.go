@@ -1,6 +1,6 @@
 package marketdata
 
-import "github.com/Hongssd/myxcoinapi"
+import "github.com/TradingXZJL/myxcoinapi"
 
 type BinanceDepthConfig struct {
 	SpotConfig   BinanceDepthConfigBase

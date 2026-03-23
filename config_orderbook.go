@@ -3,7 +3,7 @@ package marketdata
 import (
 	"github.com/Hongssd/myokxapi"
 	"github.com/Hongssd/mysunxapi"
-	"github.com/Hongssd/myxcoinapi"
+	"github.com/TradingXZJL/myxcoinapi"
 )
 
 type BinanceOrderBookConfig struct {

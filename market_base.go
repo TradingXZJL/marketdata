@@ -5,7 +5,7 @@ import (
 	"github.com/Hongssd/mybinanceapi"
 	"github.com/Hongssd/myokxapi"
 	"github.com/Hongssd/mysunxapi"
-	"github.com/Hongssd/myxcoinapi"
+	"github.com/TradingXZJL/myxcoinapi"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/sirupsen/logrus"
 )

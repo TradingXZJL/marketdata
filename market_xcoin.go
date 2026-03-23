@@ -4,7 +4,7 @@ import (
 	"errors"
 	"math"
 
-	"github.com/Hongssd/myxcoinapi"
+	"github.com/TradingXZJL/myxcoinapi"
 	"github.com/robfig/cron/v3"
 )
 

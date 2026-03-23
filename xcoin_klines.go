@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Hongssd/myxcoinapi"
+	"github.com/TradingXZJL/myxcoinapi"
 )
 
 type XcoinKline struct {
